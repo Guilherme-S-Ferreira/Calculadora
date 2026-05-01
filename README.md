@@ -75,5 +75,3 @@ Feito por **Guilherme S. Ferreira**
 ⭐ Se gostou do projeto, deixa uma estrela no repositório!
 
 ---
-
-## 📁 Estrutura do projeto
